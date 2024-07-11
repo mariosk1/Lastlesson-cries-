@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+}
+
+h6 {
+
+    font-family: Comic Sans MS ;
+    font-size: 15px;
+}
+
+h1 {
+
+    background-color: cadetblue;
+    border-radius: 30px;
+}
+
+main {
+
+    background-color: brown;
+}
+
+body {
+
+    background-color: brown;
+}
+
+a {
+
+text-decoration: none;
+color: black;
+}
+
+.jobsparagraphs {
+
+font-family: Comic Sans MS ;
+
+}
